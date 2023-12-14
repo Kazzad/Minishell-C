@@ -1,5 +1,6 @@
 # Minishell-C
-Interpréteur de commandes simplifié Unix réalisé en 1ère année de formation à l'ENSEEIHT  
+Projet de systèmes d'exploitation centralisés réalisé en 1ère année de formation à l'ENSEEIHT
+
 Ce readme contient le rapport rédigé pour ce projet  
 
 
